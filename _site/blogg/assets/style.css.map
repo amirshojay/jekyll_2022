@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"style.scss",
+		"_sass/_main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"body {\r\n  background-color: blue;\r\n}\r\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC,EACH,gBAAgB,EAAE,IAAI,GACvB"
+}
